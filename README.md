@@ -25,13 +25,13 @@ I am Frontend developer
 	<a href="https://developer.mozilla.org/en-US/docs/Web/Typescript" target="_blank" rel="noreferrer" title="Typescript">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/typescript-icon.svg" width="36" height="36" alt="Typescript" />
 	</a>
+	<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS">
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/sass-icon.svg" width="36" height="36" alt="SASS" />
+	</a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/react-icon.svg" width="36" height="36" alt="React" />
 	</a> 
 	<a href="https://https://vuejs.org//" target="_blank" rel="noreferrer" title="Vue">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/vue-icon.svg" width="36" height="36" alt="Vue" />
-	</a>
-	<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS">
-		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/sass-icon.svg" width="36" height="36" alt="SASS" />
 	</a>
 </p>
