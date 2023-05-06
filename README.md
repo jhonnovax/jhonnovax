@@ -19,10 +19,10 @@ I am Frontend developer
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/javascript-icon.svg" width="36" height="36" alt="JavaScript" />
 	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/Node" target="_blank" rel="noreferrer" title="Node">
-		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/nodejs-icon.svg" width="36" height="36" alt="Node" />
+	<a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Node">
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/node-icon.svg" width="36" height="36" alt="Node" />
 	</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/Typescript" target="_blank" rel="noreferrer" title="Typescript">
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/typescript-icon.svg" width="36" height="36" alt="Typescript" />
 	</a>
 	<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SASS">
@@ -31,7 +31,7 @@ I am Frontend developer
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/react-icon.svg" width="36" height="36" alt="React" />
 	</a> 
-	<a href="https://https://vuejs.org//" target="_blank" rel="noreferrer" title="Vue">
+	<a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/vue-icon.svg" width="36" height="36" alt="Vue" />
 	</a>
 </p>
