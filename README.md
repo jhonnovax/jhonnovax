@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Frontend developer
 --------------------------
 
-*   🖥️  See my <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jhonnovax">Portfolio</a>
 *   🧠  See my <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jhonnovax">Linkedin</a> 
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
@@ -12,18 +11,27 @@ I am Frontend developer
 
 <p align="left">
 	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/html-icon.svg" width="36" height="36" alt="HTML5" />
 	</a>
 	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/css-icon.svg" width="36" height="36" alt="CSS3" />
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/javascript-icon.svg" width="36" height="36" alt="JavaScript" />
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/Node" target="_blank" rel="noreferrer">
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/nodejs-icon.svg" width="36" height="36" alt="Node" />
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/Typescript" target="_blank" rel="noreferrer">
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/typescript-icon.svg" width="36" height="36" alt="Typescript" />
 	</a>
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/react-icon.svg" width="36" height="36" alt="React" />
 	</a> 
+	<a href="https://https://vuejs.org//" target="_blank" rel="noreferrer">
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/vue-icon.svg" width="36" height="36" alt="Vue" />
+	</a>
 	<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/sass-icon.svg" width="36" height="36" alt="SASS" />
 	</a>
 </p>
