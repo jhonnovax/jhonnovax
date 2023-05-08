@@ -1,8 +1,5 @@
-Frontend Developer React | Vue
-========================================================================================================================================
-
-A passionate Front-end Developer
---------------------------
+Frontend Developer
+=====================================================================================================================================
 
 *   🧠  See my <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jhonnovax">Linkedin</a> 
 *   🤝  I'm open to collaborating on interesting projects as a developer
