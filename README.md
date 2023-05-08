@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhon Nova
 ========================================================================================================================================
 
-I am a passionate Front-end Developer
+A passionate Front-end Developer
 --------------------------
 
 *   🧠  See my <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jhonnovax">Linkedin</a> 
