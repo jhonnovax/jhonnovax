@@ -4,6 +4,11 @@ Frontend Developer
 *   🧠  See my <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jhonnovax">Linkedin</a> 
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
+### Projects
+
+👉 Live Demos 
+* <a href='https://cryptoplace-jet.vercel.app/' target="_blank">Crytoplace</a>
+
 ### Skills
 
 <p align="left">
