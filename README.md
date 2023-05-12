@@ -6,7 +6,6 @@ Frontend Developer
 
 ### Projects
 
-👉 Live Demos 
 * <a href='https://cryptoplace-jet.vercel.app/' target="_blank">Crytoplace</a>
 
 ### Skills
