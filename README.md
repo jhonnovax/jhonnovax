@@ -6,6 +6,7 @@ Frontend Developer
 
 ### Projects
 
+* <a href='https://marketplace-livid-eight.vercel.app/' target="_blank">Marketplace</a>
 * <a href='https://cryptoplace-jet.vercel.app/' target="_blank">Crytoplace</a>
 
 ### Skills
