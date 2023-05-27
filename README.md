@@ -6,6 +6,7 @@ Frontend Developer
 
 ### Projects
 
+* <a href='https://www.on24.com/engagement-hub-demo/' target='_blank'>ON24 Ehub</a>
 * <a href='https://marketplace-livid-eight.vercel.app/' target="_blank">Marketplace</a>
 * <a href='https://cryptoplace-jet.vercel.app/' target="_blank">Crytoplace</a>
 
