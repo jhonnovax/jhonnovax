@@ -1,8 +1,8 @@
 Frontend Developer
 =====================================================================================================================================
 
-*   🧠  See my <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/jhonnovax">Linkedin</a> 
-*   🤝  I'm open to collaborating on interesting projects as a developer
+*   ✅ My <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/jhonnovax">Linkedin</a> 
+*   🤝 I'm open to collaborating on interesting projects
 
 ### Projects
 
