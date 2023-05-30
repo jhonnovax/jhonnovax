@@ -2,7 +2,7 @@ Frontend Developer
 =====================================================================================================================================
 
 *  <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/jhonnovax">My Linkedin</a> 
-*  <a target="_blank" rel="noreferrer" href="https://instagram.com/in/jhonnovax">My Instagram</a> 
+*  <a target="_blank" rel="noreferrer" href="https://instagram.com/jhonnovax">My Instagram</a> 
 
 ### Projects
 
