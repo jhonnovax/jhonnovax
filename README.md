@@ -7,9 +7,9 @@ Frontend Developer
 ### Projects
 
 * <a href='https://www.on24.com/engagement-hub-demo/' target='_blank'>ON24 Ehub</a> (<i>Current Job</i>)
-* <a href='https://marketplace-livid-eight.vercel.app/' target="_blank">Marketplace</a>
-* <a href='https://cryptoplace-jet.vercel.app/' target="_blank">Crytoplace</a>
-* <a href='https://gymplace.vercel.app/' target="_blank">Gymplace</a>
+* <a href='https://marketplace-jhonnovax.vercel.app/' target="_blank">Marketplace</a>
+* <a href='https://cryptoplace-jhonnovax.app/' target="_blank">Crytoplace</a>
+* <a href='https://gymplace-jhonnovax.vercel.app/' target="_blank">Gymplace</a>
 
 ### Skills
 
