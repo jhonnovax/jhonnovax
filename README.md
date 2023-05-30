@@ -1,7 +1,7 @@
 Frontend Developer
 =====================================================================================================================================
 
-*   <img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/linkedin-icon.svg" width="36" height="36" alt="JavaScript" /> My <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/jhonnovax">Linkedin</a> 
+*  <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/jhonnovax"><img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/linkedin-icon.svg" width="36" height="36" alt="JavaScript" /> My Linkedin</a> 
 *   🤝 I'm open to collaborating on interesting projects
 
 ### Projects
