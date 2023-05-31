@@ -11,7 +11,7 @@ Frontend Developer
 * <a href='https://cryptoplace-jhonnovax.vercel.app/' target="_blank">Crytoplace</a>
 * <a href='https://gymplace-jhonnovax.vercel.app/' target="_blank">Gymplace</a>
 * <a href='https://photoplace-jhonnovax.vercel.app/' target="_blank">Photoplace</a>
-* <a href='https://node-react-ssr-jhonnovax.vercel.app/' target="_blank">Node-React-SSR</a>
+* <a href='https://node-react-ssr-jhonnovax.vercel.app/' target="_blank">Node React SSR</a>
 * <a href='https://react-redux-local-storage-jhonnovax.vercel.app/' target="_blank">React Redux LocalStorage</a>
 
 ### Skills
