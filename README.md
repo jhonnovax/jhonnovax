@@ -36,6 +36,9 @@ Frontend Developer
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/react-icon.svg" width="36" height="36" alt="React" />
 	</a> 
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next">
+		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/nextjs-icon.svg" width="36" height="36" alt="Next" />
+	</a> 
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer" title="Vue">
 		<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/vue-icon.svg" width="36" height="36" alt="Vue" />
 	</a>
