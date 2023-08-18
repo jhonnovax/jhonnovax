@@ -1,16 +1,11 @@
 Frontend Developer
 =====================================================================================================================================
+<p align="left">
+I am a goal and project-oriented frontend web developer focused on creating high quality applications using the best techniques and technologies available in the software industry, experience working in teams distributed all over the world. 
+</p>
 
 *  <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/jhonnovax">My Linkedin</a> 
 *  <a target="_blank" rel="noreferrer" href="https://instagram.com/jhonnovax">My Instagram</a> 
-
-### Projects
-
-* <a href='https://www.on24.com/engagement-hub-demo/' target='_blank'>ON24 Ehub</a> (<i>Current Job</i>)
-* <a href='https://wikilog.web.app/' target="_blank">Wikilog</a>
-* <a href='https://photoplace-jhonnovax.vercel.app/' target="_blank">Photoplace</a>
-* <a href='https://node-react-ssr-jhonnovax.vercel.app/' target="_blank">Node React SSR</a>
-* <a href='https://react-redux-local-storage-jhonnovax.vercel.app/' target="_blank">React Redux LocalStorage</a>
 
 ### Skills
 
