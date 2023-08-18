@@ -4,8 +4,17 @@ Frontend Developer
 I am a goal and project-oriented frontend web developer focused on creating high quality applications using the best techniques and technologies available in the software industry, experience working in teams distributed all over the world. 
 </p>
 
-*  <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/jhonnovax">My Linkedin</a> 
-*  <a target="_blank" rel="noreferrer" href="https://instagram.com/jhonnovax">My Instagram</a> 
+<p align="left">
+   <a target="_blank" rel="noreferrer" href="https://codepen.io/jhonnovax">
+	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/codepen-icon.svg" width="36" height="36" alt="CodePen" /> 
+   </a>
+   <a target="_blank" rel="noreferrer" href="https://linkedin.com/in/jhonnovax">
+	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/linkedin-icon.svg" width="36" height="36" alt="Linkedin" /> 
+   </a> 
+   <a target="_blank" rel="noreferrer" href="https://instagram.com/jhonnovax">
+	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/instagram-icon.svg" width="36" height="36" alt="Instagram" /> 
+   </a> 
+</p>
 
 ### Skills
 
