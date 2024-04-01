@@ -1,4 +1,4 @@
-Frontend Developer
+Frontend Web Develope
 =====================================================================================================================================
 <p align="left">
 I am a goal and project-oriented frontend web developer focused on creating high quality applications using the best techniques and technologies available in the software industry, experience working in teams distributed all over the world. 
