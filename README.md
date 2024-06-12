@@ -1,7 +1,7 @@
 Frontend Web Developer
 =====================================================================================================================================
 <p align="left">
-I am a goal and project-oriented frontend web developer focused on creating high quality applications using the best techniques and technologies available in the software industry, experience working in teams distributed all over the world. 
+I am a passionate, goal-oriented, project-oriented front-end web developer, I would like to work in a healthy environment that values ​​my skills and offers growth opportunities, I have experience working in distributed teams around the world.
 </p>
 
 ### Skills
