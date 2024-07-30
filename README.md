@@ -1,7 +1,7 @@
-Frontend Web Developer
+Full Stack Developer
 =====================================================================================================================================
 <p align="left">
-I am a passionate, goal-oriented, project-oriented front-end web developer, I would like to work in a healthy environment that values ​​my skills and offers growth opportunities, I have experience working in distributed teams around the world.
+Versatile Full Stack Developer skilled in building responsive web applications using React, Node.js, and Python. Proficient in SQL for database management and querying. Experienced in collaborating with cross-functional teams to deliver high-quality software solutions.
 </p>
 
 ### Skills
