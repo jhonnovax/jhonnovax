@@ -1,4 +1,4 @@
-Full Stack Developer
+Front End Web Developer
 =====================================================================================================================================
 <p align="left">
 Versatile Full Stack Developer skilled in building responsive web applications using React, Node.js, and Python. Proficient in SQL for database management and querying. Experienced in collaborating with cross-functional teams to deliver high-quality software solutions.
