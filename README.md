@@ -1,7 +1,7 @@
-Full Stack Developer
+Web Developer
 =====================================================================================================================================
 <p align="left">
-Full Stack Developer with strong frontend expertise in Next.js, React, Angular, Vue, and TypeScript. Specialized in creating responsive, pixel-perfect interfaces and exceptional user experiences. Backend skills include Node.js, Python, and SQL for building robust, scalable applications. Passionate about leveraging the latest technologies to deliver high-quality, maintainable solutions.
+Web Developer with strong frontend expertise in Next.js, React, Angular, Vue, and TypeScript. Specialized in creating responsive, pixel-perfect interfaces and exceptional user experiences. Backend skills include Node.js, Python, and SQL for building robust, scalable applications. Passionate about leveraging the latest technologies to deliver high-quality, maintainable solutions.
 </p>
 
 ### Skills
