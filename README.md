@@ -1,7 +1,7 @@
 Web Developer
 =====================================================================================================================================
 <p align="left">
-Web Developer with strong frontend expertise in Next.js, React, Angular, Vue, and TypeScript. Specialized in creating responsive, pixel-perfect interfaces and exceptional user experiences. Backend skills include Node.js, Python, and SQL for building robust, scalable applications. Passionate about leveraging the latest technologies to deliver high-quality, maintainable solutions.
+Strong frontend expertise in Next.js, React, Angular, Vue, and TypeScript. Specialize in creating responsive interfaces and exceptional user experiences. Backend skills include Node.js, Python, and SQL for building robust applications. Passionate about leveraging latest technologies for high-quality, maintainable solutions.
 </p>
 
 ### Skills
