@@ -1,12 +1,15 @@
-Web Developer
-=====================================================================================================================================
+# 🚀 Jhon Nova
+
+** `Web Developer (Nextjs/React/Vue/Angular)`**
+
 <p align="left">
-Strong frontend expertise in Next.js, React, Angular, Vue, and TypeScript. Specialize in creating responsive interfaces and exceptional user experiences. Backend skills include Node.js, Python, and SQL for building robust applications. Passionate about leveraging latest technologies for high-quality, maintainable solutions.
+I am a passionate web developer with a strong focus on creating dynamic, responsive interfaces that drive user engagement and satisfaction. With a deep expertise in frontend technologies, I excel in accessibility, SEO optimization, and delivering pixel-perfect designs. My approach balances technical precision with a strong user-centric vision, crafting digital experiences that not only look great but perform seamlessly. My GitHub portfolio demonstrates my commitment to quality and showcases projects that emphasize innovation, collaboration, and impact.
 </p>
 
-### Skills
+### 👨🏻‍💻 Skills
 
 <p align="left">
+	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/git-icon.svg" width="36" height="36" alt="Git" />
 	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/sql-icon.svg" width="36" height="36" alt="SQL" />
 	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/python-icon.svg" width="36" height="36" alt="Python" />
 	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/node-icon.svg" width="36" height="36" alt="Node" />
