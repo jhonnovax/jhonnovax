@@ -1,6 +1,6 @@
 # 🚀 Jhon Nova
 
-**`Web Developer (Nextjs/React/Vue/Angular)`**
+**`Web Developer (SQL/Python/Nextjs/React/Vue/Angular)`**
 
 <p align="left">
 I am a passionate web developer with a strong focus on creating dynamic, responsive interfaces that drive user engagement and satisfaction. With a deep expertise in frontend technologies, I excel in accessibility, SEO optimization, and delivering pixel-perfect designs. My approach balances technical precision with a strong user-centric vision, crafting digital experiences that not only look great but perform seamlessly. My GitHub portfolio demonstrates my commitment to quality and showcases projects that emphasize innovation, collaboration, and impact.
