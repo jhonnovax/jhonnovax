@@ -3,7 +3,7 @@
 **`Web Developer (SQL/Python/Nextjs/React/Vue/Angular)`**
 
 <p align="left">
-Skilled in developing scalable, user-focused applications, I excel in frontend technologies like JavaScript, TypeScript, Next.js, React, Vue, and Angular, with backend expertise in Node.js, SQL, and Python. I deliver responsive, accessible, pixel-perfect designs, driven by clean, high-quality code. Passionate about innovation and user experience, I thrive in dynamic environments, enhancing processes and mentoring teams.
+I am a software developer with expertise in designing SQL and NoSQL databases, solving complex business logic, integrating third-party services, and developing custom libraries using Python and Node.js. I create responsive web applications that prioritize performance, accessibility, and user experience, leveraging technologies like JavaScript, TypeScript, Angular, Nextjs, React, and Vue. With a strong focus on API integration and advanced state management, I deliver scalable, reliable solutions while collaborating closely with design and development teams to meet business goals and exceed user expectations.
 </p>
 
 ### 👨🏻‍💻 Skills
