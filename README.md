@@ -1,6 +1,6 @@
 # 🚀 Jhon Nova
 
-**`Software Developer (SQL/Python/Nodejs/Nextjs/React/Vue/Angular)`**
+**`Full Stack Web Developer (SQL/Python/Nodejs/Nextjs/React/Vue/Angular)`**
 
 <p align="left">
 I am a software developer with expertise in designing SQL and NoSQL databases, solving complex business logic, integrating third-party services, and developing custom libraries using Python and Node.js. I create responsive web applications that prioritize performance, accessibility, and user experience, leveraging technologies like JavaScript, TypeScript, Angular, Nextjs, React, and Vue. With a strong focus on API integration and advanced state management, I deliver scalable, reliable solutions while collaborating closely with design and development teams to meet business goals and exceed user expectations.
