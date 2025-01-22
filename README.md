@@ -3,7 +3,7 @@
 **`Full Stack Web Developer (SQL/Python/Nodejs/Nextjs/React/Vue/Angular)`**
 
 <p align="left">
-I am a software developer with expertise in designing SQL and NoSQL databases, solving complex business logic, integrating third-party services, and developing custom libraries using Python and Node.js. I create responsive web applications that prioritize performance, accessibility, and user experience, leveraging technologies like JavaScript, TypeScript, Angular, Nextjs, React, and Vue. With a strong focus on API integration and advanced state management, I deliver scalable, reliable solutions while collaborating closely with design and development teams to meet business goals and exceed user expectations.
+I am a software developer with expertise in designing SQL and NoSQL databases, solving complex business logic, integrating third-party services, and developing custom libraries using Python and Node.js. I create responsive web applications that prioritize performance, accessibility, and user experience by leveraging technologies such as JavaScript, TypeScript, Angular, Next.js, React, and Vue. With a strong focus on API integration and advanced state management, I deliver scalable and reliable solutions while collaborating closely with designers, product managers, and development teams to translate wireframes, prototypes, and user stories into functional applications.
 </p>
 
 ### 👨🏻‍💻 Skills
