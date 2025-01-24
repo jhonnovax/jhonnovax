@@ -6,6 +6,8 @@
 I am a software developer with expertise in designing SQL and NoSQL databases, solving complex business logic, integrating third-party services, and developing custom libraries using Python and Node.js. I create responsive web applications that prioritize performance, accessibility, and user experience by leveraging technologies such as JavaScript, TypeScript, Angular, Next.js, React, and Vue. With a strong focus on API integration and advanced state management, I deliver scalable and reliable solutions while collaborating closely with designers, product managers, and development teams to translate wireframes, prototypes, and user stories into functional applications.
 </p>
 
+### <a href="https://fortuneok.com" target="_blank">💰 fortuneok.com</a>
+
 ### 👨🏻‍💻 Skills
 
 <p align="left">
@@ -24,7 +26,3 @@ I am a software developer with expertise in designing SQL and NoSQL databases, s
 	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/css-icon.svg" width="36" height="36" alt="CSS" />
 </p>
 
-### 🔗 Portfolio
-<ul>
-	<li><a href="https://fortuneok.com" target="_blank" style="display: flex; align-items: center;">💰 fortuneok.com</a></li>
-</ul>
