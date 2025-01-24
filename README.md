@@ -24,7 +24,7 @@ I am a software developer with expertise in designing SQL and NoSQL databases, s
 	<img src="https://github.com/jhonnovax/jhonnovax/blob/main/assets/css-icon.svg" width="36" height="36" alt="CSS" />
 </p>
 
-### 🚀 Portfolio
+### 🔗 Portfolio
 <ul>
-	<li><a href="https://fortuneok.com" target="_blank" style="display: flex; align-items: center;">💰 https://fortuneok.com</a></li>
+	<li><a href="https://fortuneok.com" target="_blank" style="display: flex; align-items: center;">💰 fortuneok.com</a></li>
 </ul>
