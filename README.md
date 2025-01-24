@@ -25,8 +25,6 @@ I am a software developer with expertise in designing SQL and NoSQL databases, s
 </p>
 
 ### 🚀 Portfolio
-<p align="left">
-	<a href="https://fortuneok.com" target="_blank" style="display: flex; align-items: center;">
-		💰 https://fortuneok.com
-	</a>
-</p>
+<ul>
+	<li><a href="https://fortuneok.com" target="_blank" style="display: flex; align-items: center;">💰 https://fortuneok.com</a></li>
+</ul>
