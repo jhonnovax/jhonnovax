@@ -1,5 +1,3 @@
-# 🚀 Jhon Nova
-
 **`Full Stack Web Developer (SQL/Python/Nodejs/Nextjs/React/Vue)`**
 
 <p align="left">
